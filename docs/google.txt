@@ -1,0 +1,105 @@
+# Google Raw Text File
+
+Google LLC is an American multinational technology company focused on online advertising, search engine technology, cloud computing, software, consumer electronics, artificial intelligence, and quantum computing. Google was founded in 1998 by Larry Page and Sergey Brin while they were PhD students at Stanford University in California. The company started as a research project that later became the most widely used search engine in the world.
+
+The founders originally created a search engine called BackRub. The search engine analyzed backlinks between websites to determine importance and relevance. This became the basis for the PageRank algorithm. The name Google came from the mathematical term googol, meaning a very large number represented by 1 followed by 100 zeros. The founders wanted the name to represent the enormous amount of information available on the internet.
+
+Google officially became a company in 1998 after receiving initial funding from investors including Andy Bechtolsheim. The company initially operated from a garage owned by Susan Wojcicki. Over time the company rapidly expanded due to the popularity and efficiency of Google Search.
+
+Google became a public company in 2004 through an initial public offering. The IPO raised billions of dollars and made Google one of the most valuable technology companies in the world. After going public the company expanded aggressively into many new products and services.
+
+Google Search became the foundation of the company. The search engine indexes billions of web pages and allows users to search information using keywords. Google continuously improved search quality through algorithms and machine learning systems.
+
+In addition to search Google launched Gmail in 2004. Gmail introduced large storage capacity, threaded conversations, spam filtering, and a clean interface. Gmail quickly became one of the most widely used email services worldwide.
+
+Google Maps became another major product. Google Maps provides satellite imagery, navigation, street views, traffic information, and route planning. The company later acquired Waze to improve crowdsourced navigation features.
+
+YouTube was acquired by Google in 2006 for 1.65 billion dollars. YouTube became the largest online video sharing platform in the world. Users upload billions of videos and consume massive amounts of video content daily.
+
+Google Chrome was released in 2008. Chrome became one of the most popular web browsers due to its speed, simplicity, and security features. ChromeOS was later introduced as an operating system based on the Chrome browser.
+
+Android became one of Google's most important products. Android is a mobile operating system used by billions of smartphones globally. Google acquired Android Inc before the operating system became dominant in the mobile industry.
+
+Google also entered the hardware market with products like Pixel smartphones, Nest smart devices, Chromecast, and Pixel Watch devices. These products integrate closely with Google's software ecosystem.
+
+Artificial intelligence became a major focus for Google. The company developed AI systems such as Google Assistant, Gemini, TensorFlow, and DeepMind technologies. Google integrated AI into search, translation, cloud computing, and productivity tools.
+
+Google Translate allows users to translate between many languages instantly. The service uses machine learning and neural networks to improve translation accuracy.
+
+Google Drive provides cloud storage and file synchronization. Users can store files online and access them from multiple devices. Google Docs, Sheets, and Slides became popular productivity tools for collaboration.
+
+Google Photos allows users to store, organize, and search photos using AI-powered recognition systems. The platform automatically groups faces, objects, and locations.
+
+Google Cloud Platform became one of the largest cloud computing services globally. Businesses use Google Cloud for storage, computing, databases, machine learning, and infrastructure services.
+
+In 2015 Google reorganized under a parent company called Alphabet Inc. Alphabet became the umbrella company managing Google and other ventures. Sundar Pichai became CEO of Google and later CEO of Alphabet.
+
+Google invested heavily in research and development. The company operates large data centers worldwide to support search, cloud computing, and AI services. Google also built undersea communication cables to improve internet connectivity.
+
+Advertising remains Google's largest source of revenue. Google Ads allows businesses to display advertisements on search results and websites. AdSense helps website owners earn money by displaying ads.
+
+Google uses targeted advertising systems based on user interests, search history, and online behavior. This approach increased advertising effectiveness but also created privacy concerns.
+
+The company faced criticism related to data collection and user privacy. Critics argued that Google collects massive amounts of information from users across services such as Search, Gmail, Maps, YouTube, and Android.
+
+Governments worldwide investigated Google for antitrust issues and monopoly practices. Regulators claimed Google used its dominant position to limit competition in search, advertising, and mobile operating systems.
+
+The European Union fined Google multiple times for anti-competitive behavior. The United States Department of Justice also filed antitrust lawsuits against the company.
+
+Google developed many AI projects including Gemini, Imagen, Veo, and DeepMind systems. Gemini became Google's advanced AI assistant integrated into many services.
+
+DeepMind achieved major breakthroughs in artificial intelligence. AlphaGo defeated world champion Go players, demonstrating significant advancements in machine learning.
+
+Google also worked on autonomous vehicles through Waymo. Waymo develops self-driving car technology and autonomous transportation systems.
+
+Google's mission statement is to organize the world's information and make it universally accessible and useful. The company previously used the slogan Don't be evil.
+
+Google became known for its employee-friendly culture. The company offered free meals, open office spaces, innovation programs, and generous employee benefits.
+
+Employees were encouraged to spend part of their work time on personal innovation projects. This policy contributed to products like Gmail and Google News.
+
+Google established offices worldwide including locations in the United States, India, Europe, and Asia. The headquarters known as the Googleplex is located in Mountain View, California.
+
+Google invested in renewable energy and sustainability initiatives. The company purchased wind and solar energy and committed to carbon-free operations.
+
+Google.org became the company's philanthropic branch supporting education, climate initiatives, healthcare, and nonprofit organizations.
+
+The company also developed hardware products such as Chromecast streaming devices, Nest smart home products, and Pixel tablets.
+
+Google Classroom became popular in schools and universities. Teachers use Classroom to manage assignments, communication, and educational materials.
+
+Google Meet and Google Chat became widely used communication tools for businesses and education, especially during remote work periods.
+
+Google Finance, Google Flights, Google News, and Google Shopping expanded Google's search ecosystem into specialized areas.
+
+Google Books digitized millions of books and allowed users to search and preview book content online.
+
+The company launched Google Fiber to provide high-speed internet services in selected cities.
+
+Google Pay became a digital payment service allowing users to make online and contactless transactions.
+
+Google Workspace combined productivity applications including Gmail, Docs, Sheets, Slides, Drive, and Meet into a subscription platform for businesses.
+
+Google acquired Fitbit to expand into wearable technology and health tracking devices.
+
+Google's AI systems are integrated into Android phones, smart speakers, search results, and cloud services.
+
+Google Assistant allows users to interact with devices using voice commands. Users can ask questions, control smart home devices, play media, and manage schedules.
+
+The company continued expanding AI capabilities into education, healthcare, translation, and productivity applications.
+
+Google faced criticism over content moderation, censorship, misinformation, and political influence. Some critics argued that Google's algorithms influenced public opinion and access to information.
+
+Google also faced employee protests regarding military contracts, workplace diversity, and internal policies.
+
+Despite controversies Google remained one of the most influential and valuable companies in the world. Billions of people use Google services every day for communication, navigation, entertainment, work, and information access.
+
+The company continues investing heavily in artificial intelligence, cloud computing, hardware, renewable energy, and advanced computing technologies.
+
+Google's products dominate many markets including online search, video platforms, mobile operating systems, email services, cloud productivity, and digital advertising.
+
+The company plans to continue integrating AI into nearly all of its products and services. Google believes AI will transform search, communication, education, and computing.
+
+Google's long-term vision includes advancements in machine learning, quantum computing, autonomous systems, healthcare technologies, and sustainable computing infrastructure.
+
+As technology evolves Google remains central to the digital lives of billions of users worldwide. The company continues shaping the future of the internet, artificial intelligence, and global communication.
